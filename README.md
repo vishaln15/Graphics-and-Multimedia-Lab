@@ -12,10 +12,10 @@ g++ filename.cpp -o basic -lfreeglut -lopengl32 -lglew32 -lglu32 && filename
 
 ## List of Experiments
 
-1. Assignment 1 - Basic Primitive Outputs including, Points, Lines, Line Strip, Line Loop, Triangles, Quads, Polygons etc.
+1. [Assignment 1](https://github.com/vishaln15/Graphics-and-Multimedia-Lab/198-A1) - Basic Primitive Outputs including, Points, Lines, Line Strip, Line Loop, Triangles, Quads, Polygons etc.
 
-2. Assignment 2 - Digital Differential Analyzer Line Drawing Algorithm
+2. [Assignment 2](https://github.com/vishaln15/Graphics-and-Multimedia-Lab/198-A2) - Digital Differential Analyzer Line Drawing Algorithm
 
-3. Assignment 3 - Bresenham's Line Drawing Algorithm
+3. [Assignment 3](https://github.com/vishaln15/Graphics-and-Multimedia-Lab/198-A3) - Bresenham's Line Drawing Algorithm
 
-4. Assignment 4 - Midpoint Circle Drawing Algorithm
+4. [Assignment 4](https://github.com/vishaln15/Graphics-and-Multimedia-Lab/198-A4) - Midpoint Circle Drawing Algorithm
