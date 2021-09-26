@@ -20,4 +20,6 @@ g++ filename.cpp -o basic -lfreeglut -lopengl32 -lglew32 -lglu32 && filename
 
 4. [Assignment 4](198-A4) - Midpoint Circle Drawing Algorithm
 
-5. [Assignment 5](198-A5) - 2D Transformations
+5. [Assignment 5](198-A5) - Basic 2D Transformations
+
+6. [Assignment 6](198-A6) - Composite 2D Transformations and Windowing
