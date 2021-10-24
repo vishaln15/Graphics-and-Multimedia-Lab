@@ -25,3 +25,5 @@ g++ filename.cpp -o basic -lfreeglut -lopengl32 -lglew32 -lglu32 && filename
 6. [Assignment 6](198-A6) - Composite 2D Transformations and Windowing
 
 7. [Assignment 7](198-A7) - Cohen Sutherland Line Clipping Algorithm
+
+8. [Assignment 8](198-A8) - Basic 3D Transformations
