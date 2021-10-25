@@ -28,4 +28,6 @@ g++ filename.cpp -o basic -lfreeglut -lopengl32 -lglew32 -lglu32 && filename
 
 8. [Assignment 8](198-A8) - Basic 3D Transformations
 
-9. [Lab Test](198-GMLABTEST) - Lab test based on experiments [A1](198-A1) through [A6](198-A6)
+9. [Assignment 9](198-A9) - Parallel and Perspective Projections
+
+10. [Lab Test](198-GMLABTEST) - Lab test based on experiments [A1](198-A1) through [A6](198-A6)
