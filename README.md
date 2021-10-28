@@ -32,4 +32,8 @@ g++ filename.cpp -o basic -lfreeglut -lopengl32 -lglew32 -lglu32 && filename
 
 10. [Assignment 10](198-A10) - Create 3D Scene
 
-11. [Lab Test](198-GMLABTEST) - Lab test based on experiments [A1](198-A1) through [A6](198-A6)
+11. [Assignment 11](198-A11) - Image editing and Manipulation using GIMP
+
+12. [Assignment 12](198-A12) - Creating 3D Animation using GIMP
+
+13. [Lab Test](198-GMLABTEST) - Lab test based on experiments [A1](198-A1) through [A6](198-A6)
