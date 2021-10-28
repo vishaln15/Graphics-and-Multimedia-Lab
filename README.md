@@ -30,4 +30,6 @@ g++ filename.cpp -o basic -lfreeglut -lopengl32 -lglew32 -lglu32 && filename
 
 9. [Assignment 9](198-A9) - Parallel and Perspective Projections
 
-10. [Lab Test](198-GMLABTEST) - Lab test based on experiments [A1](198-A1) through [A6](198-A6)
+10. [Assignment 10](198-A10) - Create 3D Scene
+
+11. [Lab Test](198-GMLABTEST) - Lab test based on experiments [A1](198-A1) through [A6](198-A6)
