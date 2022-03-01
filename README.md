@@ -37,3 +37,5 @@ g++ filename.cpp -o basic -lfreeglut -lopengl32 -lglew32 -lglu32 && filename
 12. [Assignment 12](198-A12) - Creating 3D Animation using GIMP
 
 13. [Lab Test](198-GMLABTEST) - Lab test based on experiments [A1](198-A1) through [A6](198-A6)
+
+14. [Application Oriented Questions](Application-Oriented-Questions) - Important questions with implementation
